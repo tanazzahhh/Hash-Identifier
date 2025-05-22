@@ -34,7 +34,7 @@ This Python tool helps identify the type of a given hash using regex patterns an
 
 1. **Clone or download this repo**
 ```bash
-git clone https://github.com/tanazzahh/Hash-Identifier
+git clone https://github.com/tanazzahhh/Hash-Identifier
 cd Hash-Identifier
 ```
 
